@@ -34,3 +34,7 @@ Biggest thing I noticed when looking at the dataset at first was that the citati
 I used PowerBI in order to visualize my data. You can find these Visualizations in the Visualization folder where you can view the powerbi file to interact with the data or just view the pdf file if you want the general gist of it.
 
 ## Files in Repository
+Datasets Original and Cleaned Dataset
+Visualization Powerbi Visualization
+Wikipage_webscrapper.py Python script to scrape wiki page
+Reports Powerpoint Presentation of Findings.
